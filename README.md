@@ -15,16 +15,8 @@ $ npm start
 
 Your app should now be running on [localhost:5000](http://localhost:5000/).
 
-## Deploying to Drie 
-
-```
-$ drie app add
-$ drie app deploy
-$ drie app scale 1
-```
-
 ## Documentation
 
-For more information about Node.js and Drie, please read:
+For more information about Node.js and drie, please read:
 
-- [Drie Documentation](http://docs.drie.co/docs)
+- [drie Documentation](http://docs.drie.co/docs)
