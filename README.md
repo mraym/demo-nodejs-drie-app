@@ -1,4 +1,4 @@
-# demo-nodejs-drie-app 5
+# demo-nodejs-drie-app 6
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
