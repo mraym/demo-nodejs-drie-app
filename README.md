@@ -1,4 +1,4 @@
-# demo-nodejs-drie-app 1
+# demo-nodejs-drie-app
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
@@ -28,5 +28,3 @@ $ drie app scale 1
 For more information about Node.js and Drie, please read:
 
 - [Drie Documentation](http://docs.drie.co/docs)
-
-remove me
